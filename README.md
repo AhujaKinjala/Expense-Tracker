@@ -1,1 +1,3 @@
-"# Expense-Tracker" 
+Expense Tracker
+GUI:Tkinter
+Backend:MySQL
